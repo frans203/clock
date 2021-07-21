@@ -1,2 +1,2 @@
-# clock
+# Clock
 Analogic and digital clock
